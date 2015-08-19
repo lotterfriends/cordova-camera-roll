@@ -30,7 +30,7 @@ In Javascript, you can do something like this:
 ```javascript
 
 // Quickly save a base-64 encoded data uri to the cameraroll.
-CamerRoll.saveToCameraRoll(base64String, function() {
+CameraRoll.saveToCameraRoll(base64String, function() {
 }, function(err) {
 });
 
